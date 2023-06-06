@@ -10,7 +10,7 @@
 ## Installation
 
 1. Clone the repository:
-git clone <repository_url>
+git clone https://github.com/misonnnnn/praxxys.git
 
 2. Install the dependencies:
 composer install
